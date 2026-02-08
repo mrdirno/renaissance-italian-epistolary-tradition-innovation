@@ -1,0 +1,77 @@
+{
+  "book_id": "renaissance-italian-epistolary-tradition-innovation",
+  "title": "The Silent Geometry of Cypress",
+  "tagline": "A master luthier in Renaissance Venice receives a mysterious commission that forces him to choose between the sacred traditions of his craft and a dangerous, innovative silence.",
+  "target_words": 76067,
+  "actual_words": 76067,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Sanctity and Corruption of Craft",
+    "Secrecy as a Form of Power",
+    "The Clash Between Art and Commerce",
+    "The Weight of Unseen Observers"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Damp Insistence of a Canal",
+      "words": 6338
+    },
+    {
+      "ch": 2,
+      "title": "A Cypress, Straight as a Moral Code",
+      "words": 6338
+    },
+    {
+      "ch": 3,
+      "title": "The Thunderous Knock at Peace",
+      "words": 6338
+    },
+    {
+      "ch": 4,
+      "title": "Into the Solid, Suspicious Dark",
+      "words": 6338
+    },
+    {
+      "ch": 5,
+      "title": "The Awl, a Sliver of Light",
+      "words": 6338
+    },
+    {
+      "ch": 6,
+      "title": "A Map of Nowhere",
+      "words": 6338
+    },
+    {
+      "ch": 7,
+      "title": "The Ache of a Phantom Limb",
+      "words": 6338
+    },
+    {
+      "ch": 8,
+      "title": "A Palimpsest of Drowned Glory",
+      "words": 6338
+    },
+    {
+      "ch": 9,
+      "title": "The World, Only Half-Made",
+      "words": 6338
+    },
+    {
+      "ch": 10,
+      "title": "The Forest That Ingests",
+      "words": 6338
+    },
+    {
+      "ch": 11,
+      "title": "The Ghost in the Nostrils",
+      "words": 6338
+    },
+    {
+      "ch": 12,
+      "title": "The Sea-Bleached Epistle",
+      "words": 6338
+    }
+  ]
+}
